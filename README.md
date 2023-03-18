@@ -1,9 +1,17 @@
 <img src="screenshots/one.png" height="500em" />
-<img src="screenshots/two.jpeg" height="500em" />
-<img src="screenshots/three.jpeg" height="500em" />
-<img src="screenshots/four.jpeg" height="500em" />
-<img src="screenshots/five.jpeg" height="500em" />
-<img src="screenshots/six.jpeg" height="500em" />
+
+<table>
+  <tr>
+    <td><img src="screenshots/two.jpeg" height="500em" /></td>
+    <td><img src="screenshots/three.jpeg" height="500em" /></td>
+    <td><img src="screenshots/four.jpeg" height="500em" /></td>
+    <td><img src="screenshots/five.jpeg" height="500em" /></td>
+    <td><img src="screenshots/five.jpeg" height="500em" /></td>
+    <td><img src="screenshots/six.jpeg" height="500em" /></td>
+  </tr>
+</table>
+
+
 **Food Delivery App Screen shots:** 
 
 ![](Aspose.Words.bd9e31dd-b16f-4c83-bdf9-6e3784a0020a.002.png) ![](Aspose.Words.bd9e31dd-b16f-4c83-bdf9-6e3784a0020a.003.png) ![](Aspose.Words.bd9e31dd-b16f-4c83-bdf9-6e3784a0020a.004.png) ![](Aspose.Words.bd9e31dd-b16f-4c83-bdf9-6e3784a0020a.005.png)
