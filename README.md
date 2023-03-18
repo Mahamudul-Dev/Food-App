@@ -1,17 +1,19 @@
-# Food App
+<img src="screenshot/one.png" height="500em" />
 
-A new Flutter project.
+**Food Delivery App Screen shots:** 
 
-## Getting Started
+![](Aspose.Words.bd9e31dd-b16f-4c83-bdf9-6e3784a0020a.002.png) ![](Aspose.Words.bd9e31dd-b16f-4c83-bdf9-6e3784a0020a.003.png) ![](Aspose.Words.bd9e31dd-b16f-4c83-bdf9-6e3784a0020a.004.png) ![](Aspose.Words.bd9e31dd-b16f-4c83-bdf9-6e3784a0020a.005.png)
 
-This project is a starting point for a Flutter application.
+**Advantage of food app for food business  ![](Aspose.Words.bd9e31dd-b16f-4c83-bdf9-6e3784a0020a.006.png)**
 
-A few resources to get you started if this is your first Flutter project:
+Increased Revenue: A food delivery app allows customers to easily order food from their  favorite restaurants, which can increase the overall revenue of the business.  
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Wider Reach: A food delivery app can help businesses expand their customer base by  reaching customers who may not have otherwise known about their restaurant or may not  have been able to physically visit their location.  
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enhanced Customer Experience: A food delivery app provides customers with a seamless  and convenient way to order food, allowing them to skip the hassle of waiting in line or  making a phone call. This can lead to an improved customer experience and increased  customer loyalty.  
 
+Better Order Management: A food delivery app can help businesses manage their orders  more efficiently, reducing errors and ensuring that orders are fulfilled accurately and on  time. 
+
+Increased Brand Awareness: A food delivery app can help businesses increase their brand awareness by featuring their restaurant on the app's platform, which can attract new customers and generate more exposure. 
+
+Real-time Feedback: A food delivery app can provide businesses with real-time feedback from customers, which can help them improve their service and make necessary changes to their menu or operations. 
