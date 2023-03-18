@@ -1,2 +1,2 @@
 # Food App
- A full featured food business application developed by Mahamudul Hasan
+ A full featured food application developed by Mahamudul Hasan
