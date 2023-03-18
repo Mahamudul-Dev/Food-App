@@ -1,4 +1,4 @@
-<img src="screenshot/one.png" height="500em" />
+<img src="screenshots/one.png" height="500em" />
 
 **Food Delivery App Screen shots:** 
 
